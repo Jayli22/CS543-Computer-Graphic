@@ -2,6 +2,7 @@
 
 uniform mat4 projection_matrix;
 uniform mat4 model_matrix;
+uniform mat4 view_matrix;
 
 in  vec4 vPosition;
 in  vec4 vColor;
@@ -18,6 +19,6 @@ void main()
   // notice mathematically there is no difference
   // however in rare circumstances the order of the transform may affect the numerical stability
   // of the overall projection
-  gl_Position = projection_matrix*model_matrix*vPosition;
+  gl_Position = projection_matrix* view_matrix * model_matrix*vPosition;
   interpolatedColor = vColor;
 } 

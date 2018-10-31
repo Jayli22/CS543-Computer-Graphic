@@ -1,16 +1,14 @@
 ﻿  example1.cpp
-c:\users\lijia\onedrive - worcester polytechnic institute (wpi.edu)\cs543\jiayi_li_hw2\graphics_starting_code_2\glslexperiment\example1.cpp(191): warning C4477: 'fscanf' : format string '%f' requires an argument of type 'float *', but variadic argument 3 has type 'char (*)[20]'
-c:\users\lijia\onedrive - worcester polytechnic institute (wpi.edu)\cs543\jiayi_li_hw2\graphics_starting_code_2\glslexperiment\example1.cpp(311): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\users\lijia\onedrive - worcester polytechnic institute (wpi.edu)\cs543\jiayi_li_hw2\graphics_starting_code_2\glslexperiment\example1.cpp(312): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\users\lijia\onedrive - worcester polytechnic institute (wpi.edu)\cs543\jiayi_li_hw2\graphics_starting_code_2\glslexperiment\example1.cpp(313): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\users\lijia\onedrive - worcester polytechnic institute (wpi.edu)\cs543\jiayi_li_hw2\graphics_starting_code_2\glslexperiment\example1.cpp(571): warning C4305: '+=': truncation from 'double' to 'float'
-c:\users\lijia\onedrive - worcester polytechnic institute (wpi.edu)\cs543\jiayi_li_hw2\graphics_starting_code_2\glslexperiment\example1.cpp(574): warning C4305: '-=': truncation from 'double' to 'float'
-c:\users\lijia\onedrive - worcester polytechnic institute (wpi.edu)\cs543\jiayi_li_hw2\graphics_starting_code_2\glslexperiment\example1.cpp(743): warning C4305: '+=': truncation from 'double' to 'float'
-c:\users\lijia\onedrive - worcester polytechnic institute (wpi.edu)\cs543\jiayi_li_hw2\graphics_starting_code_2\glslexperiment\example1.cpp(754): warning C4305: '+=': truncation from 'double' to 'float'
-c:\users\lijia\onedrive - worcester polytechnic institute (wpi.edu)\cs543\jiayi_li_hw2\graphics_starting_code_2\glslexperiment\example1.cpp(763): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\lijia\onedrive - worcester polytechnic institute (wpi.edu)\cs543\jayli\cs543-computer-graphic\jiayi_li_hw3\graphics_starting_code_2\glslexperiment\example1.cpp(216): warning C4477: 'fscanf' : format string '%f' requires an argument of type 'float *', but variadic argument 3 has type 'char (*)[20]'
+c:\users\lijia\onedrive - worcester polytechnic institute (wpi.edu)\cs543\jayli\cs543-computer-graphic\jiayi_li_hw3\graphics_starting_code_2\glslexperiment\example1.cpp(400): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\lijia\onedrive - worcester polytechnic institute (wpi.edu)\cs543\jayli\cs543-computer-graphic\jiayi_li_hw3\graphics_starting_code_2\glslexperiment\example1.cpp(654): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\lijia\onedrive - worcester polytechnic institute (wpi.edu)\cs543\jayli\cs543-computer-graphic\jiayi_li_hw3\graphics_starting_code_2\glslexperiment\example1.cpp(690): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\lijia\onedrive - worcester polytechnic institute (wpi.edu)\cs543\jayli\cs543-computer-graphic\jiayi_li_hw3\graphics_starting_code_2\glslexperiment\example1.cpp(691): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\lijia\onedrive - worcester polytechnic institute (wpi.edu)\cs543\jayli\cs543-computer-graphic\jiayi_li_hw3\graphics_starting_code_2\glslexperiment\example1.cpp(749): warning C4552: '%': result of expression not used
+c:\users\lijia\onedrive - worcester polytechnic institute (wpi.edu)\cs543\jayli\cs543-computer-graphic\jiayi_li_hw3\graphics_starting_code_2\glslexperiment\example1.cpp(746): warning C4101: 't': unreferenced local variable
   Generating code
-  0 of 69 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+  4 of 104 functions ( 3.8%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
+    1 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
-  GLSLExperiment.vcxproj -> C:\Users\lijia\OneDrive - Worcester Polytechnic Institute (wpi.edu)\CS543\JiaYi_Li_hw2\graphics_starting_code_2\Release\GLSLExperiment.exe
+  GLSLExperiment.vcxproj -> C:\Users\lijia\OneDrive - Worcester Polytechnic Institute (wpi.edu)\CS543\Jayli\CS543-Computer-Graphic\JiaYi_Li_hw3\graphics_starting_code_2\Release\GLSLExperiment.exe
